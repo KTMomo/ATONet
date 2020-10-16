@@ -16,14 +16,14 @@ accuracy of 74.4% and 70.1% mIoU with the inference speed of 42.7 FPS
 and 93.5 FPS on the urban street scenes test datasets Cityscapes and
 CamVid, respectively.
 
-![avatar](./img/Compare_arhitecture.png)
+![](./img/Compare_arhitecture.png)
 
 ## Network architecture
-![avatar](./img/ATONet.png)
+![](./img/ATONet.png)
 
 ## Results
-![avatar](./img/result_cityscapes.png)
-![avatar](./img/result_camvid.png)
+![](./img/result_cityscapes.png)
+![](./img/result_camvid.png)
 
 ## Ablation
-![avatar](./img/ablation.png)
+![](./img/ablation.png)
