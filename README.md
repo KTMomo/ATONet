@@ -19,12 +19,12 @@ CamVid, respectively.
 ![img](https://github.com/KTMomo/ATONet/blob/master/img/ATONet.png)
 
 ## Network architecture
-![img](./img/ATONet.png)
+![img](https://github.com/KTMomo/ATONet/blob/master/img/ATONet.png)
 
 ## Results
-![img](./img/result_cityscapes.png)
+![img](https://github.com/KTMomo/ATONet/blob/master/img/result_cityscapes.png)
 
-![img](./img/result_camvid.png)
+![img](https://github.com/KTMomo/ATONet/blob/master/img/result_camvid.png)
 
-## Ablation
-![img](./img/ablation.png)
+## Ablations
+![img](https://github.com/KTMomo/ATONet/blob/master/img/ablation.png)
