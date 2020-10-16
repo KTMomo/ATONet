@@ -16,7 +16,6 @@ accuracy of 74.4% and 70.1% mIoU with the inference speed of 42.7 FPS
 and 93.5 FPS on the urban street scenes test datasets Cityscapes and
 CamVid, respectively.
 
-![add image](https://github.com/KTMomo/ATONet/blob/master/img/Compare_arhitecture.png)
 ![avatar](./img/Compare_arhitecture.png)
 
 ## Network architecture
