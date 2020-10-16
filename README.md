@@ -15,4 +15,4 @@ features of all blocks. (iv) Finally, the proposed network achieves the
 accuracy of 74.4% and 70.1% mIoU with the inference speed of 42.7 FPS
 and 93.5 FPS on the urban street scenes test datasets Cityscapes and
 CamVid, respectively.
-![avatar](img/ATONet.png)
+![avatar](./img/ATONet.png)
